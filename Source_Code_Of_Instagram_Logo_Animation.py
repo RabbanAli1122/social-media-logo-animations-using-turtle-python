@@ -45,11 +45,13 @@ circle(20,90)
 forward(170)
 circle(20,90)
 forward(85)
+
+end_fill()
+
+color("#FFFFFF")
 left(90)
 forward(20)
 right(90)
-end_fill()
-
 
 color("#1AA34D")
 begin_fill()
