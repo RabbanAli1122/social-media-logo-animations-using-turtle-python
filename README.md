@@ -29,10 +29,12 @@ done()
 
    
 ## 📂 Files in Repository
-- Source_Code_Of_Facebook_Logo_Animation.py – Draws Facebook logo animation using Turtle
-- Source_Code_Of_Instagram_Logo_Animation.py – Draws Instagram logo animation using Turtle
-- Source_Code_Of_Linkedin_Logo_Animation.py – Draws LinkedIn logo animation using Turtle
-- Source_Code_Of_YouTube_Logo_Animation.py – Draws YouTube logo animation using Turtle
+- ```Source_Code_Of_Facebook_Logo_Animation.py``` – Draws Facebook logo animation using Turtle
+- ```Source_Code_Of_Instagram_Logo_Animation.py``` – Draws Instagram logo animation using Turtle
+- ```Source_Code_Of_Linkedin_Logo_Animation.py``` – Draws LinkedIn logo animation using Turtle
+- ```Source_Code_Of_YouTube_Logo_Animation.py``` – Draws YouTube logo animation using Turtle
+- ```LICENSE``` - MIT License
+- ```Readme.md``` - Contains information about repository
 
 
 ## 🚀 How to Run
